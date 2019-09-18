@@ -10,6 +10,7 @@ public class DemoGitApplication {
 
         SpringApplication.run(DemoGitApplication.class, args);
         System.out.println("放假覅街道口附近");
+        System.out.println("放假覅街道口附近护肤和");
     }
 
 }
